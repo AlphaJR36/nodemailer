@@ -1,0 +1,5 @@
+Olá,
+O seu pagamento do seu BOT - [BOT NAME] foi confirmado com sucesso.
+
+R$[PRICE BRL] | €[PRICE EUR]
+(PAYMENT METHOD)

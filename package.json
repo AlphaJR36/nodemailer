@@ -1,0 +1,17 @@
+{
+  "name": "nodemailer-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "description": "https://discord.gg/GzCPcVTQ5p",
+  "repository": "https://github.com/AlphaJR36/nodemailer.git",
+  "author": "AlphaJR36 <alphajrdev@gmail.com>"
+}
