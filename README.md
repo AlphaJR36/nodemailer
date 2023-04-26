@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AlphaJR36" >
-    <img src="https://raw.githubusercontent.com/AlphaJR36/nodemailer/master/src/assets/images/logo.png?token=GHSAT0AAAAAABZTX7FBNM4LGGY3P4YKTQ54ZCJTJBQ" alt="" >
+    <img src="https://raw.githubusercontent.com/AlphaJR36/nodemailer/master/src/assets/images/logo.png" alt="" >
   </a>
 
   <h3 align="center"></h3>
